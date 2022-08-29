@@ -1,0 +1,86 @@
+{
+    "num_mip_levels": 4, 
+    "padding": 8, 
+    "resource_pack_name": "World64617_RP", 
+    "texture_data": {
+        "twf_sga_a": {
+            "textures": "textures/blocks/twf_sga_a/a"
+        }, 
+        "twf_sga_b": {
+            "textures": "textures/blocks/twf_sga_b/a"
+        }, 
+        "twf_sga_c": {
+            "textures": "textures/blocks/twf_sga_c/a"
+        }, 
+        "twf_sga_d": {
+            "textures": "textures/blocks/twf_sga_d/a"
+        }, 
+        "twf_sga_e": {
+            "textures": "textures/blocks/twf_sga_e/a"
+        }, 
+        "twf_sga_f": {
+            "textures": "textures/blocks/twf_sga_f/a"
+        }, 
+        "twf_sga_g": {
+            "textures": "textures/blocks/twf_sga_g/a"
+        }, 
+        "twf_sga_h": {
+            "textures": "textures/blocks/twf_sga_h/a"
+        }, 
+        "twf_sga_i": {
+            "textures": "textures/blocks/twf_sga_i/a"
+        }, 
+        "twf_sga_j": {
+            "textures": "textures/blocks/twf_sga_j/a"
+        }, 
+        "twf_sga_k": {
+            "textures": "textures/blocks/twf_sga_k/a"
+        }, 
+        "twf_sga_l": {
+            "textures": "textures/blocks/twf_sga_l/a"
+        }, 
+        "twf_sga_m": {
+            "textures": "textures/blocks/twf_sga_m/a"
+        }, 
+        "twf_sga_n": {
+            "textures": "textures/blocks/twf_sga_n/a"
+        }, 
+        "twf_sga_o": {
+            "textures": "textures/blocks/twf_sga_o/a"
+        }, 
+        "twf_sga_p": {
+            "textures": "textures/blocks/twf_sga_p/a"
+        }, 
+        "twf_sga_q": {
+            "textures": "textures/blocks/twf_sga_q/a"
+        }, 
+        "twf_sga_r": {
+            "textures": "textures/blocks/twf_sga_r/a"
+        }, 
+        "twf_sga_s": {
+            "textures": "textures/blocks/twf_sga_s/a"
+        }, 
+        "twf_sga_t": {
+            "textures": "textures/blocks/twf_sga_t/a"
+        }, 
+        "twf_sga_u": {
+            "textures": "textures/blocks/twf_sga_u/a"
+        }, 
+        "twf_sga_v": {
+            "textures": "textures/blocks/twf_sga_v/a"
+        }, 
+        "twf_sga_w": {
+            "textures": "textures/blocks/twf_sga_w/a"
+        }, 
+        "twf_sga_x": {
+            "textures": "textures/blocks/twf_sga_x/a"
+        }, 
+        "twf_sga_y": {
+            "textures": "textures/blocks/twf_sga_y/a"
+        }, 
+        "twf_sga_z": {
+            "textures": "textures/blocks/twf_sga_z/a"
+        }
+    }, 
+    "texture_name": "atlas.terrain"
+}

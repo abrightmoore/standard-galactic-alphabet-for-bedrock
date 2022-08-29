@@ -1,0 +1,48 @@
+{
+    "format_version": "1.17.0", 
+    "minecraft:entity": {
+        "component_groups": {}, 
+        "components": {
+            "minecraft:custom_hit_test": {
+                "hitboxes": [
+                    {
+                        "height": 0.3, 
+                        "pivot": [
+                            0, 
+                            0.2, 
+                            0
+                        ], 
+                        "width": 0.3
+                    }
+                ]
+            }, 
+            "minecraft:experience_reward": {
+                "on_death": "(1.0)"
+            }, 
+            "minecraft:health": {
+                "max": 10, 
+                "value": 4
+            }, 
+            "minecraft:knockback_resistance": {
+                "value": 1.0
+            }, 
+            "minecraft:loot": {
+                "table": "loot_tables/entities/twf_sga_c.json"
+            }, 
+            "minecraft:nameable": {}, 
+            "minecraft:physics": {}, 
+            "minecraft:type_family": {
+                "family": [
+                    "twf_cyootoon", 
+                    "mob"
+                ]
+            }
+        }, 
+        "description": {
+            "identifier": "twf:sga_c", 
+            "is_spawnable": true, 
+            "is_summonable": true
+        }, 
+        "events": {}
+    }
+}

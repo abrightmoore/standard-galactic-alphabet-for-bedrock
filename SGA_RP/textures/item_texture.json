@@ -1,0 +1,84 @@
+{
+    "resource_pack_name": "World64617_RP", 
+    "texture_data": {
+        "twf_sga_a_item": {
+            "textures": "textures/items/twf_sga_a_item"
+        }, 
+        "twf_sga_b_item": {
+            "textures": "textures/items/twf_sga_b_item"
+        }, 
+        "twf_sga_c_item": {
+            "textures": "textures/items/twf_sga_c_item"
+        }, 
+        "twf_sga_d_item": {
+            "textures": "textures/items/twf_sga_d_item"
+        }, 
+        "twf_sga_e_item": {
+            "textures": "textures/items/twf_sga_e_item"
+        }, 
+        "twf_sga_f_item": {
+            "textures": "textures/items/twf_sga_f_item"
+        }, 
+        "twf_sga_g_item": {
+            "textures": "textures/items/twf_sga_g_item"
+        }, 
+        "twf_sga_h_item": {
+            "textures": "textures/items/twf_sga_h_item"
+        }, 
+        "twf_sga_i_item": {
+            "textures": "textures/items/twf_sga_i_item"
+        }, 
+        "twf_sga_j_item": {
+            "textures": "textures/items/twf_sga_j_item"
+        }, 
+        "twf_sga_k_item": {
+            "textures": "textures/items/twf_sga_k_item"
+        }, 
+        "twf_sga_l_item": {
+            "textures": "textures/items/twf_sga_l_item"
+        }, 
+        "twf_sga_m_item": {
+            "textures": "textures/items/twf_sga_m_item"
+        }, 
+        "twf_sga_n_item": {
+            "textures": "textures/items/twf_sga_n_item"
+        }, 
+        "twf_sga_o_item": {
+            "textures": "textures/items/twf_sga_o_item"
+        }, 
+        "twf_sga_p_item": {
+            "textures": "textures/items/twf_sga_p_item"
+        }, 
+        "twf_sga_q_item": {
+            "textures": "textures/items/twf_sga_q_item"
+        }, 
+        "twf_sga_r_item": {
+            "textures": "textures/items/twf_sga_r_item"
+        }, 
+        "twf_sga_s_item": {
+            "textures": "textures/items/twf_sga_s_item"
+        }, 
+        "twf_sga_t_item": {
+            "textures": "textures/items/twf_sga_t_item"
+        }, 
+        "twf_sga_u_item": {
+            "textures": "textures/items/twf_sga_u_item"
+        }, 
+        "twf_sga_v_item": {
+            "textures": "textures/items/twf_sga_v_item"
+        }, 
+        "twf_sga_w_item": {
+            "textures": "textures/items/twf_sga_w_item"
+        }, 
+        "twf_sga_x_item": {
+            "textures": "textures/items/twf_sga_x_item"
+        }, 
+        "twf_sga_y_item": {
+            "textures": "textures/items/twf_sga_y_item"
+        }, 
+        "twf_sga_z_item": {
+            "textures": "textures/items/twf_sga_z_item"
+        }
+    }, 
+    "texture_name": "atlas.items"
+}

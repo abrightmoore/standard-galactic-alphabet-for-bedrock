@@ -1,0 +1,132 @@
+[
+    {
+        "atlas_tile": "twf_sga_o", 
+        "flipbook_texture": "textures/blocks/twf_sga_o/sga_o_flip", 
+        "ticks_per_frame": "5",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_n", 
+        "flipbook_texture": "textures/blocks/twf_sga_n/sga_n_flip", 
+        "ticks_per_frame": "5",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_m", 
+        "flipbook_texture": "textures/blocks/twf_sga_m/sga_m_flip", 
+        "ticks_per_frame": "5",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_l", 
+        "flipbook_texture": "textures/blocks/twf_sga_l/sga_l_flip", 
+        "ticks_per_frame": "1",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_k", 
+        "flipbook_texture": "textures/blocks/twf_sga_k/sga_k_flip", 
+        "ticks_per_frame": "1",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_j", 
+        "flipbook_texture": "textures/blocks/twf_sga_j/sga_j_flip", 
+        "ticks_per_frame": "3",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_i", 
+        "flipbook_texture": "textures/blocks/twf_sga_i/sga_i_flip", 
+        "ticks_per_frame": "1",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_h", 
+        "flipbook_texture": "textures/blocks/twf_sga_h/sga_h_flip", 
+        "ticks_per_frame": "2",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_g", 
+        "flipbook_texture": "textures/blocks/twf_sga_g/sga_g_flip", 
+        "ticks_per_frame": "5",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_f", 
+        "flipbook_texture": "textures/blocks/twf_sga_f/sga_f_flip", 
+        "ticks_per_frame": "5",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_e", 
+        "flipbook_texture": "textures/blocks/twf_sga_e/sga_e_flip", 
+        "ticks_per_frame": "5",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_d", 
+        "flipbook_texture": "textures/blocks/twf_sga_d/sga_d_flip", 
+        "ticks_per_frame": "2",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_c", 
+        "flipbook_texture": "textures/blocks/twf_sga_c/sga_c_flip", 
+        "ticks_per_frame": "4",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_b", 
+        "flipbook_texture": "textures/blocks/twf_sga_b/sga_b_flip", 
+        "ticks_per_frame": "2",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_a", 
+        "flipbook_texture": "textures/blocks/twf_sga_a/sga_a_flip", 
+        "ticks_per_frame": "2",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_z", 
+        "flipbook_texture": "textures/blocks/twf_sga_z/sga_z_flip", 
+        "ticks_per_frame": "3",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_y", 
+        "flipbook_texture": "textures/blocks/twf_sga_y/sga_y_flip", 
+        "ticks_per_frame": "2",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_x", 
+        "flipbook_texture": "textures/blocks/twf_sga_x/sga_x_flip", 
+        "ticks_per_frame": "1",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_w", 
+        "flipbook_texture": "textures/blocks/twf_sga_w/sga_w_flip", 
+        "ticks_per_frame": "2",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_v", 
+        "flipbook_texture": "textures/blocks/twf_sga_v/sga_v_flip", 
+        "ticks_per_frame": "3",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_u", 
+        "flipbook_texture": "textures/blocks/twf_sga_u/sga_u_flip", 
+        "ticks_per_frame": "3",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_t", 
+        "flipbook_texture": "textures/blocks/twf_sga_t/sga_t_flip", 
+        "ticks_per_frame": "4",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_s", 
+        "flipbook_texture": "textures/blocks/twf_sga_s/sga_s_flip", 
+        "ticks_per_frame": "1",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_r", 
+        "flipbook_texture": "textures/blocks/twf_sga_r/sga_r_flip", 
+        "ticks_per_frame": "5",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_q", 
+        "flipbook_texture": "textures/blocks/twf_sga_q/sga_q_flip", 
+        "ticks_per_frame": "2",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }, 
+    {
+        "atlas_tile": "twf_sga_p", 
+        "flipbook_texture": "textures/blocks/twf_sga_p/sga_p_flip", 
+        "ticks_per_frame": "2",     "frames": [0, 1, 2, 3, 2, 1, 0]
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:sga_g_shards_from_sga_g"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:sga_g"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:sga_g_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

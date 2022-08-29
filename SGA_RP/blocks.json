@@ -1,0 +1,111 @@
+{
+    "format_version": [
+        1, 
+        16, 
+        0
+    ], 
+    "twf:sga_a": {
+        "sound": "metal", 
+        "textures": "twf_sga_a"
+    }, 
+    "twf:sga_b": {
+        "sound": "metal", 
+        "textures": "twf_sga_b"
+    }, 
+    "twf:sga_c": {
+        "sound": "metal", 
+        "textures": "twf_sga_c"
+    }, 
+    "twf:sga_d": {
+        "sound": "metal", 
+        "textures": "twf_sga_d"
+    }, 
+    "twf:sga_e": {
+        "sound": "metal", 
+        "textures": "twf_sga_e"
+    }, 
+    "twf:sga_f": {
+        "sound": "metal", 
+        "textures": "twf_sga_f"
+    }, 
+    "twf:sga_g": {
+        "sound": "metal", 
+        "textures": "twf_sga_g"
+    }, 
+    "twf:sga_h": {
+        "sound": "metal", 
+        "textures": "twf_sga_h"
+    }, 
+    "twf:sga_i": {
+        "sound": "metal", 
+        "textures": "twf_sga_i"
+    }, 
+    "twf:sga_j": {
+        "sound": "metal", 
+        "textures": "twf_sga_j"
+    }, 
+    "twf:sga_k": {
+        "sound": "metal", 
+        "textures": "twf_sga_k"
+    }, 
+    "twf:sga_l": {
+        "sound": "metal", 
+        "textures": "twf_sga_l"
+    }, 
+    "twf:sga_m": {
+        "sound": "metal", 
+        "textures": "twf_sga_m"
+    }, 
+    "twf:sga_n": {
+        "sound": "metal", 
+        "textures": "twf_sga_n"
+    }, 
+    "twf:sga_o": {
+        "sound": "metal", 
+        "textures": "twf_sga_o"
+    }, 
+    "twf:sga_p": {
+        "sound": "metal", 
+        "textures": "twf_sga_p"
+    }, 
+    "twf:sga_q": {
+        "sound": "metal", 
+        "textures": "twf_sga_q"
+    }, 
+    "twf:sga_r": {
+        "sound": "metal", 
+        "textures": "twf_sga_r"
+    }, 
+    "twf:sga_s": {
+        "sound": "metal", 
+        "textures": "twf_sga_s"
+    }, 
+    "twf:sga_t": {
+        "sound": "metal", 
+        "textures": "twf_sga_t"
+    }, 
+    "twf:sga_u": {
+        "sound": "metal", 
+        "textures": "twf_sga_u"
+    }, 
+    "twf:sga_v": {
+        "sound": "metal", 
+        "textures": "twf_sga_v"
+    }, 
+    "twf:sga_w": {
+        "sound": "metal", 
+        "textures": "twf_sga_w"
+    }, 
+    "twf:sga_x": {
+        "sound": "metal", 
+        "textures": "twf_sga_x"
+    }, 
+    "twf:sga_y": {
+        "sound": "metal", 
+        "textures": "twf_sga_y"
+    }, 
+    "twf:sga_z": {
+        "sound": "metal", 
+        "textures": "twf_sga_z"
+    }
+}

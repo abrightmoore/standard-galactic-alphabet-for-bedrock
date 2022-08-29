@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_sga_w.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_d"
+            }, 
+            "identifier": "twf:sga_w", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#130013", 
+                "overlay_color": "#6F4B05"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_sga_w"
+            }
+        }
+    }
+}
